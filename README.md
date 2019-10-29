@@ -11,6 +11,6 @@
 **Features**
 
 * You can set time hh and mm for the wake up time
-* When it is on the alarm time Prgram will change to problem solving page
+* When it is on the alarm time Program will change to problem solving page
   * If you can solve the problem the alarm will turn to time page
 
