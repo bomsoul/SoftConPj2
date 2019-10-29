@@ -4,8 +4,8 @@
 
 **Before Running the Project**
 1. Import Project to Your Editor
-2. Go to **Project Structure** -> **Modules** -> **Dependencies** -> **(+)** on the right _> **JARS or directories**
-   * Import **sqlite-jdbc-3.23.1(1).jar** -> **Apply** -> **OK**
+2. Go to **Project Structure** &rightarrow; **Modules** &rightarrow; **Dependencies** &rightarrow; **(+)** on the right &rightarrow; **JARS or directories**
+   * Import **sqlite-jdbc-3.23.1(1).jar** &rightarrow; **Apply** &rightarrow; **OK**
 3. You can Run your Project
 
 **Features**
